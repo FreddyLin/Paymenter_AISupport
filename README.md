@@ -3,6 +3,9 @@
 Automatically replies to customer support tickets using an AI of your choice.  
 Supports **OpenAI (ChatGPT)**, **Anthropic (Claude)**, **Google (Gemini)**, **Mistral AI**, and any **OpenAI-compatible** endpoint (e.g. OpenCode, local models via Ollama, etc.).
 
+**Author:** Buster4126
+**Support:** [Discord](https://discord.gg/nk4xp9HBaU)
+
 ---
 
 ## Features
@@ -149,6 +152,4 @@ This extension is released for personal and commercial use. Redistribution or re
 
 ## Support & Feedback
 
-If you encounter a bug or have a feature request, please leave a comment on the BuiltByBit resource page, or join our Discord support server: https://discord.gg/nk4xp9HBaU
-
-*Author: Buster4126*
+If you encounter a bug or have a feature request, please leave a comment on the BuiltByBit resource page.
