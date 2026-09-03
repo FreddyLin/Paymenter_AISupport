@@ -4,6 +4,7 @@ Automatically replies to customer support tickets using an AI of your choice.
 Supports **OpenAI (ChatGPT)**, **Anthropic (Claude)**, **Google (Gemini)**, **Mistral AI**, and any **OpenAI-compatible** endpoint (e.g. OpenCode, local models via Ollama, etc.).
 
 **Author:** Buster4126
+**License:** Free — All rights reserved
 **Support:** [Discord](https://discord.gg/nk4xp9HBaU)
 
 ---
@@ -146,7 +147,7 @@ To the maximum extent permitted by applicable law, the author shall not be liabl
 
 ## License
 
-This extension is released for personal and commercial use. Redistribution or reselling of this extension without permission is not allowed.
+This extension is free to use. Redistribution, reselling, or sublicensing of this extension is not allowed. See [LICENSE](LICENSE) for the full terms.
 
 ---
 
