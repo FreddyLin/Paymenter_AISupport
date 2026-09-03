@@ -149,6 +149,6 @@ This extension is released for personal and commercial use. Redistribution or re
 
 ## Support & Feedback
 
-If you encounter a bug or have a feature request, please leave a comment on the BuiltByBit resource page.
+If you encounter a bug or have a feature request, please leave a comment on the BuiltByBit resource page, or join our Discord support server: https://discord.gg/nk4xp9HBaU
 
 *Author: Buster4126*
